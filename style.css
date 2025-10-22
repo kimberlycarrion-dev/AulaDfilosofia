@@ -1,19 +1,19 @@
 body {
-     color: rgb(200, 146, 231);
-     background: rgba(193, 131, 218, 0.233);
+     color: rgb(76, 14, 112);
+     background: rgba(171, 52, 218, 0.233);
      margin: 0px;
      font-family: "Great Vibes" , sans-serif;
 }
 
 header {
-     border-bottom: solid 2px rgb(192, 115, 207);
+     border-bottom: solid 2px rgb(79, 49, 85);
      padding: 20px;
      font: size 32px;
-     color: rgb(187, 150, 235);
+     color: rgb(113, 17, 238);
 }
 
 section {
-     background: rgb(241, 212, 234);
+     background: rgb(151, 65, 131);
      padding-bottom: 80px;
      padding-top: 80px;
      display: flex;
