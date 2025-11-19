@@ -2,7 +2,8 @@ body {
      color: rgb(76, 14, 112);
      background: rgba(171, 52, 218, 0.233);
      margin: 0px;
-     font-family: "Great Vibes" , sans-serif;
+     font-family: "How to use" , sans-serif;
+     margin-bottom: 100px;
 }
 
 header {
@@ -30,9 +31,7 @@ h1{
 p{
      font-size: 20px;
 }
-img{
-     height:200px;
-}
+
 .categoria-videos{
      display:flex;
      overflow-x: auto;
@@ -42,4 +41,16 @@ img{
 .categoria{
      padding-left: 20px;
      padding-right: 20px;
+     margin-top: 50px;
+}
+.categoria-videos img{
+     opacity: 0.5;
+     height: 200px;
+}
+.categoria-videos img:hover{
+     opacity: 1.0;
+     border: 1px solid plum;
+}
+.categoria h2{
+     color:rgb(171, 153, 175);
 }
